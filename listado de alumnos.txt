@@ -10,7 +10,7 @@ Alumnos:
 7
 8
 9 Ariel Antonio Gonzalez Padilla
-10
+10 Marco Antonio Granados Delgado
 11 Vicente Guerrero Marentes
 12 Eduardo Hernandez
 13
